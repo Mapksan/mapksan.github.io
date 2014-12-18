@@ -1,7 +1,4 @@
 
-body {
-    background-color: purple;
-}
 
 h1 {
     color: Yellow;
@@ -11,4 +8,25 @@ h1 {
 p {
     font-family: "Times New Roman";
     font-size: 20px
+}
+body{
+    background-image: url(http://Zyluss.me/assets/backing2.jpeg);
+    background-size:100%,100%;
+    background-position: 50% 1.8cm;
+}
+
+td{
+ color:white;
+    background-color: #333333;
+    font-family: raleway, n6;
+    min-height:12px;   
+    padding:10px;
+}
+.header{
+    font-family:Helvetica;
+    font-size:32px;
+    color:#ffa500;
+}
+table{
+    margin-top:15cm;
 }
